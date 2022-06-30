@@ -11,7 +11,7 @@ public class MineriaController {
 
     @GetMapping("/mineria")
     public String hello() {
-        return String.format("JiJiJiJa me gusta Clash Royale");
+        return String.format("JiJiJiJa, no me gusta Clash Royale");
     }
 
 }
